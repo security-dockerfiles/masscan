@@ -1,0 +1,1 @@
+[![](https://images.microbadger.com/badges/version/ilyaglow/masscan.svg)](https://microbadger.com/images/ilyaglow/masscan "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/ilyaglow/masscan.svg)](https://microbadger.com/images/ilyaglow/masscan "Get your own image badge on microbadger.com") 
